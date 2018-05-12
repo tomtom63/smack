@@ -15,6 +15,7 @@
 		FECEA5DA20A69DDD00D1E36E /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECEA5D920A69DDD00D1E36E /* ChatVC.swift */; };
 		FECEA5DC20A69DF200D1E36E /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECEA5DB20A69DF200D1E36E /* ChannelVC.swift */; };
 		FECEA5E320A6A41500D1E36E /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FECEA5E220A6A41400D1E36E /* SWRevealViewController.m */; };
+		FECEA60820A6B6DC00D1E36E /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECEA60720A6B6DC00D1E36E /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		FECEA5E020A6A41300D1E36E /* smack-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "smack-Bridging-Header.h"; sourceTree = "<group>"; };
 		FECEA5E120A6A41400D1E36E /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		FECEA5E220A6A41400D1E36E /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		FECEA60720A6B6DC00D1E36E /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 		FECEA5D720A69DB500D1E36E /* View */ = {
 			isa = PBXGroup;
 			children = (
+				FECEA60720A6B6DC00D1E36E /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			files = (
 				FECEA5DC20A69DF200D1E36E /* ChannelVC.swift in Sources */,
 				FECEA5DA20A69DDD00D1E36E /* ChatVC.swift in Sources */,
+				FECEA60820A6B6DC00D1E36E /* GradientView.swift in Sources */,
 				FECEA5C020A40FC600D1E36E /* AppDelegate.swift in Sources */,
 				FECEA5E320A6A41500D1E36E /* SWRevealViewController.m in Sources */,
 			);
