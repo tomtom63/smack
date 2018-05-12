@@ -18,6 +18,7 @@
 		FECEA60820A6B6DC00D1E36E /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECEA60720A6B6DC00D1E36E /* GradientView.swift */; };
 		FECEA60B20A6DC6200D1E36E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECEA60A20A6DC6200D1E36E /* Constants.swift */; };
 		FECEA60D20A6E2E000D1E36E /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECEA60C20A6E2E000D1E36E /* LoginVC.swift */; };
+		FECEA60F20A6E83300D1E36E /* CreateAcountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FECEA60E20A6E83300D1E36E /* CreateAcountVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		FECEA60720A6B6DC00D1E36E /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		FECEA60A20A6DC6200D1E36E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		FECEA60C20A6E2E000D1E36E /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		FECEA60E20A6E83300D1E36E /* CreateAcountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAcountVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				FECEA5D920A69DDD00D1E36E /* ChatVC.swift */,
 				FECEA5DB20A69DF200D1E36E /* ChannelVC.swift */,
 				FECEA60C20A6E2E000D1E36E /* LoginVC.swift */,
+				FECEA60E20A6E83300D1E36E /* CreateAcountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FECEA60F20A6E83300D1E36E /* CreateAcountVC.swift in Sources */,
 				FECEA5DC20A69DF200D1E36E /* ChannelVC.swift in Sources */,
 				FECEA5DA20A69DDD00D1E36E /* ChatVC.swift in Sources */,
 				FECEA60D20A6E2E000D1E36E /* LoginVC.swift in Sources */,
